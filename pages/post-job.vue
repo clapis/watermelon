@@ -1,7 +1,7 @@
 <template>
   <div>
     <intro>
-      <template v-slot:main># focus.</template>
+      <template v-slot:main># keep it simple</template>
     </intro>
 
     <wizard @onSubmit="post">
