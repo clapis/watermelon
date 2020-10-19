@@ -9,7 +9,7 @@ export const actions = {
 
                 if (!product.sku) return;
 
-                return _checkout(product, result.id, config)
+                return _checkout(product, result, config)
             });
 
     },
@@ -28,14 +28,10 @@ function _checkout(product, reference, config) {
         })
         .then(function (result) {
 
-            console.log('redirectToCheckout result:', result);
-
             if (result.error) {
                 // If `redirectToCheckout` fails due to a browser or network
                 // error, display the localized error message to your customer.
-                // var displayError = document.getElementById('error-message');
-                // displayError.textContent = result.error.message;
-                console.log("error stripe:" + result.error.message);
+                console.error("error stripe:" + result.error.message);
             }
         });
 }
