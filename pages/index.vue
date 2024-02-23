@@ -5,7 +5,7 @@
         .#
       </template>
       <template v-slot:sub>
-        .Net jobs in the Netherlands. Nothing more.
+        .NET jobs in the Netherlands. Nothing more.
       </template>
     </intro>
 

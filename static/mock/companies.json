@@ -1,0 +1,50 @@
+[
+    {
+      "id": 8,
+      "name": "Lumera",
+      "hasLogo": true,
+      "website": "https://lumera.com/"
+    },
+    {
+      "id": 7,
+      "name": "Greenchoice",
+      "hasLogo": true,
+      "website": "https://www.greenchoice.nl/"
+    },
+    {
+      "id": 6,
+      "name": "Euronext",
+      "hasLogo": true,
+      "website": "https://www.euronext.com/en"
+    },
+    {
+      "id": 5,
+      "name": "Videoland",
+      "hasLogo": true,
+      "website": "https://www.videoland.com/"
+    },
+    {
+      "id": 4,
+      "name": "SnappCar",
+      "hasLogo": true,
+      "website": "https://www.snappcar.nl/"
+    },
+    {
+      "id": 3,
+      "name": "RTL Nederland",
+      "hasLogo": true,
+      "website": "https://www.rtl.nl/"
+    },
+    {
+      "id": 2,
+      "name": "GreenFlux",
+      "hasLogo": true,
+      "website": "https://www.greenflux.com/"
+    },
+    {
+      "id": 1,
+      "name": "Funda",
+      "hasLogo": true,
+      "website": "https://funda.nl"
+    }
+  ]
