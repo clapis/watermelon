@@ -1,0 +1,336 @@
+[
+    {
+      "id": 8,
+      "companyId": 8,
+      "companyName": "Lumera",
+      "hasLogo": true,
+      "position": ".NET Developer",
+      "description": "<p><strong>Challenger in the pension market</strong></p><p>Lumera is an InsurTech company that provides a digital platform – with associated services – to pension funds, administrators and insurers. Customers use our Lumera Axylife system to manage pension and life insurance policies and to serve participants. Lumera is a fast-growing challenger in the market, preparing for the reform that will drastically change the pension space in the coming years. We see plenty of opportunities, do you?</p><p>Pensions may not be sexy, but is a hugely important for everyone who accrues or receives a pension. Lumera is committed to making pension administration simpler, more agile and lower cost. And that ensures that each participant and insured gets the best service and positive outcomes. Lumera Axylife produces real savings for pension administrators, which can be passed on to participants.</p><p><strong>About the job</strong></p><p>As a .NET Developer at Lumera, you will work on various challenges. The emphasis is on building new functionality for various applications, not least our key product AxyLife. You are involved from head to tail in both development and testing and management, across the full breadth of the organization. You will work on our ASP.NET MVC web applications, WPF desktop applications and on the interfacing / integration with, among other things, a Digital Xperience Platform. Of course, data analytics and access play a major role within this business and will certainly come your way. What else is coming at you in the coming years is not exactly clear: your role is determined by what the market demands. Because you are deployed across the full width, you have a very steep learning curve. Depending on your performance and your competencies, you ultimately determine your role and your potential yourself.</p><p><strong>To thrive in this role, you should have...&nbsp;</strong></p><ul><li><p>Minimum HBO working and thinking level</p></li><li><p>At least 3 years of knowledge and experience with: C#, ASP.NET MVC, Web API, HTML/CSS/JavaScript, SQL Server.</p></li><li><p>Knowledge of WPF / Kendo UI / DXP (Sitefinity CMS) and mobile app development is an advantage</p></li><li><p>Good communication and social skills</p></li><li><p>Very good knowledge in Dutch&nbsp;</p></li><li><p>Qualities like independent, accurate, flexible and eager to learn</p></li><li><p>Enthusiasm and that you are a creative team player</p></li><li><p>Critical thinking skills, self-reflection, sense of responsibility and quality awareness</p></li><li><p>Affinity and experience in the pension world. For us an important selection criterion.</p></li></ul>",
+      "remote": true,
+      "location": "",
+      "applyUrl": "https://jobs.lumera.com/jobs/2350249-net-developer",
+      "tags": [
+        "wpf",
+        "mvc",
+        "sqlserver",
+        "css",
+        "html",
+        "js",
+        ".net"
+      ],
+      "isFeatured": false,
+      "age": 1
+    },
+    {
+      "id": 7,
+      "companyId": 7,
+      "companyName": "Greenchoice",
+      "hasLogo": true,
+      "position": "Senior .NET Developer",
+      "description": "<p>You are responsible for the quality of the applications you work on with the team.&nbsp;You develop fully.&nbsp;In addition, you convert your clear view of technical frameworks and quality into a clear vision and guidelines within and outside the team.&nbsp;With your code you inspire the team and support teammates in the development work.&nbsp;Together you look for solutions outside the beaten path and involve the necessary disciplines, such as front end &amp; UX, in the solutions.</p><p>At Greenchoice we build and maintain microservices with C# and the latest version of .NET (7).&nbsp;We provide solutions for many business processes from purchasing, sales and administration to service and self-service.&nbsp;We also integrate with several third parties.&nbsp;We use ASP.NET, MassTransit in combination with RabbitMQ and EF Core for this purpose.&nbsp;By continuously updating to the latest version of .NET, we stay up to date and have access to the latest tools and techniques.&nbsp;Where we still have outdated applications and processes, we also convert them to microservices or phase them out.&nbsp;In the coming years, we will unbundle our old landscape and prepare for the next step towards the Azure Cloud.</p><p><strong>Your&nbsp;challenges:</strong></p><ul><li><p>Developing future-proof software.&nbsp;You want to meet customer wishes without making concessions on the quality of the code.&nbsp;To keep track of this, we work with automated SonarCloud reporting and quality gates, among other things.</p></li><li><p>The new event-driven microservices architecture requires a new way of thinking.&nbsp;In addition, the transition to this architecture is accompanied by the phasing out of legacy code.&nbsp;A continuous process in every team.</p></li><li><p>The energy market is a beautiful and complex market, which requires close collaboration with your colleagues from other departments to really take the right steps.</p></li></ul><p><strong>You are our positive energy</strong></p><p>You know how to convey your clear vision on how we safeguard and increase (technical) quality to colleagues.&nbsp;You know how to connect people and can initiate changes.&nbsp;You don't give up, help teammates with challenges and support the product owner in completing the technical product vision</p><p>In addition you have:</p><ul><li><p>More than 5 years of experience with software development in C# in a professional working environment</p></li><li><p>A completed education in the field of ICT/Computer Science/Software Engineering</p></li><li><p>Knowledge of the Dutch language.&nbsp;Our working language is Dutch and many functional and technical descriptions are in Dutch.</p></li></ul>",
+      "remote": false,
+      "location": "Rotterdam",
+      "applyUrl": "https://greenchoice.recruitee.com/o/senior-net-developer",
+      "tags": [
+        "rabbitmq",
+        "efcore",
+        "dutch",
+        "c#",
+        "aspnet"
+      ],
+      "isFeatured": false,
+      "age": 1
+    },
+    {
+      "id": 6,
+      "companyId": 6,
+      "companyName": "Euronext",
+      "hasLogo": true,
+      "position": "Senior .Net Developer",
+      "description": "<p><strong>Key Accountabilities</strong></p><p>The key accountabilities for this role are:</p><ul><li><p>Translate application storyboards and use cases into functional applications;</p></li><li><p>Design, build and maintain efficient, reusable, and reliable code;</p></li><li><p>Ensure the best possible performance, quality and responsiveness of the applications;</p></li><li><p>Identify bottlenecks and bugs and devise solutions to these problems;</p></li><li><p>Help maintain code quality, organization, and automatization.</p></li></ul><p></p><p><strong>Knowledge, Skills and Experience Required</strong></p><ul><li><p>Higher level academic technical qualification e.g. Bachelors in Computer Science or Equivalent</p></li><li><p>Experience developing application in a microservices architecture</p></li><li><p>Excellent object-oriented design and coding skills in .NET/.NET Core</p></li><li><p>Solid experience with GIT, relational and non-relational database</p></li><li><p>Experience in creating and maintaining unit and integration tests</p></li><li><p>Be familiar with Amazon Webservices, containers and CICD practices</p></li><li><p>Knowledge of agile development practices</p></li><li><p>Pro-active attitude, strong analytical and problem solving skills</p></li><li><p>Fluent in English</p></li></ul>",
+      "remote": false,
+      "location": "Rotterdam",
+      "applyUrl": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Amsterdam/XMLNAME-Net-developer_R15002/apply",
+      "tags": [
+        ".net",
+        "git",
+        "amazon",
+        "microservices"
+      ],
+      "isFeatured": false,
+      "age": 2
+    },
+    {
+      "id": 5,
+      "companyId": 5,
+      "companyName": "Videoland",
+      "hasLogo": true,
+      "position": "Senior Software Engineer",
+      "description": "<p>We are looking for an experienced and highly skilled Senior Software Engineer to join our team. The ideal candidate must have a minimum of 7 years of experience in developing scalable, high-quality software applications using various programming languages such as Java, C#, Python, and JavaScript. They should be proficient in object-oriented programming principles and have a deep understanding of data structures and algorithms. Responsibilities will include designing, coding, testing, debugging, and maintaining complex software systems for our clients. The successful applicant must also possess strong communication skills, attention to detail, and the ability to work effectively with cross-functional teams.</p>",
+      "remote": false,
+      "location": "Hilversum",
+      "applyUrl": "https://jobsearch.createyourowncareer.com/RTL/content/search/",
+      "tags": [
+        "azure",
+        "c#",
+        "dotnet",
+        "terraform",
+        "k8s",
+        "argo",
+        "promql"
+      ],
+      "isFeatured": false,
+      "age": 2
+    },
+    {
+      "id": 4,
+      "companyId": 4,
+      "companyName": "SnappCar",
+      "hasLogo": true,
+      "position": "C# Developer",
+      "description": "<p>We are looking for an experienced Certified C# Developer to join our team and help us develop innovative software solutions. The ideal candidate must have at least 5 years of experience in developing scalable, high-quality applications using C#. They should be proficient in object-oriented programming principles and have a deep understanding of data structures and algorithms. Responsibilities will include designing, coding, testing, debugging, and maintaining complex software systems for our clients. The successful applicant should also have strong communication skills, attention to detail, and the ability to work effectively with cross-functional teams.</p>",
+      "remote": false,
+      "location": "Utrecht",
+      "applyUrl": "https://jobs.snappcar.nl/",
+      "tags": [
+        "c#",
+        "mvc",
+        "angular",
+        "aspnet",
+        "typescript"
+      ],
+      "isFeatured": false,
+      "age": 2
+    },
+    {
+      "id": 3,
+      "companyId": 3,
+      "companyName": "RTL Nederland",
+      "hasLogo": true,
+      "position": "Senior .NET Software Engineer",
+      "description": "<p>The Senior .NET Developer position at our company requires 5+ years of experience in developing web applications using VB.Net, C#, or Java. The ideal candidate should also have strong knowledge of software engineering and programming concepts such as algorithms and data structures. Responsibilities will include designing, developing, testing, debugging, and maintaining complex software systems for our clients. The successful applicant should be a team player with excellent communication skills, problem-solving abilities, and attention to detail.</p>",
+      "remote": false,
+      "location": "Hilversum",
+      "applyUrl": "https://www.rtl.nl/werkenbij/werken-bij-rtl/ZDqsihEAACAAeCn9",
+      "tags": [
+        "azure",
+        "k8s",
+        "c#",
+        "argo",
+        "gitops",
+        "terraform",
+        "mongodb"
+      ],
+      "isFeatured": false,
+      "age": 3
+    },
+    {
+      "id": 9,
+      "companyId": 2,
+      "companyName": "GreenFlux",
+      "hasLogo": true,
+      "position": "Full Stack Software Engineer",
+      "description": "<p><strong>The job</strong></p><p>You will be a developer in our (web-)Portal team, which is practicing agile with well-defined and clear processes. You will work on a complex and diverse web portal application providing our B2B customers the primary interface to our systems. The platform brings together a large amount of data from various sources and sees a substantial number of concurrent users every day. We have a clear focus on UX, performance, and scalability of the product. Together with your team you will face challenges and grow at the same time.</p><p>In our team, we currently use the following technologies:</p><p>· A microservices architecture using the latest versions of C#/.NET.</p><p>· Front-end, currently developed with ASP.NET MVC/Razor and transitioning to Vue.js.</p><p>· Cloud-native services deployed on Azure.</p><p>· Focus on serverless and event-driven architecture (Azure Functions, Service Bus, Event Hub).</p><p>· Cloud-native storage technologies (Azure SQL, Cosmos DB, Redis, Synapse).</p><p>· Elasticsearch and Kibana for logging.</p><p>· Azure DevOps.</p><p>· Infrastructure as Code (ARM/Bicep).</p><p>· Automated testing, for example using SpecFlow.</p><p><strong>Job requirements</strong></p><p>You are passionate about building scalable, high-load, and cloud-native solutions in a fast-moving company. You are eager to learn, flexible, and open to working with various techniques. You have good communication skills, understand what the user needs, and can put this to words as well as code. You have Up-to-date knowledge of current front-end practices and frameworks. You value idiomatic and efficient HTML, CSS, and TypeScript/JavaScript code. Having experience working with Vue.js is a plus.</p><p><strong>You have</strong></p><p>· 4+ years of experience with Microsoft .NET/C# and ASP.Net Core building large-scale complex systems.</p><p>· Hands-on experience developing cloud-native applications and services (preferably Azure).</p><p>·&nbsp;Hands-on experience with building web applications. Good working knowledge using either Razor or Vue.js.</p><p>· An understanding of quality control and the importance to test the code before release.</p><p>· Experience with CI/CD and automation of the software development lifecycle.</p><p>· A drive for continuous learning and self-improvement.</p><p>· Professional fluency in English.</p><p>· A sustainable mindset!</p><p></p>",
+      "remote": false,
+      "location": "Amsterdam",
+      "applyUrl": "https://greenflux.recruitee.com/o/full-stack-software-engineer",
+      "tags": [
+        "azure",
+        "c#",
+        ".net",
+        "asp.net",
+        "razor",
+        "vuejs"
+      ],
+      "isFeatured": false,
+      "age": 5
+    },
+    {
+      "id": 10,
+      "companyId": 1,
+      "companyName": "Funda",
+      "hasLogo": true,
+      "position": "Backend .NET Developer",
+      "description": "<p>As a .NET Developer at funda you're not ‘just’ writing code, you’re writing quality code on a platform&nbsp;that gets viewed 77 million times per month, by people who are right in the middle of one of the biggest decisions in their lives: buying a home, a place to live.&nbsp;And it’s you who will actively participate in ideas on how to make this journey even better.</p><p>You’ll work with modern (mostly Microsoft) technology, including&nbsp;<strong>.NET Core&nbsp;</strong>6 and&nbsp;<strong>Azure</strong>, but also with open-source products such as&nbsp;<strong>Docker&nbsp;</strong>or&nbsp;<strong>Kubernetes</strong>. You and your team ship your own&nbsp;<strong>microservices</strong>&nbsp;directly to production using Azure devops (check out the tech stack we use&nbsp;here). According to your colleague&nbsp;Kateryna, you make a difference with your work. “Of course, we have an enormous audience. But what's much cooler than that is that you can change things on your own. If you've got a good idea and you can convince the team that it's a good idea, you can get started on it straight away. That means you really have an impact.”</p><p><strong>Your job in a nutshell</strong></p><ul><li><p>Write high quality code</p></li><li><p>Ship features that affect millions of users</p></li><li><p>Work together with the whole scrum team (all disciplines) to solve problems</p></li><li><p>Investigate and fix production issues (in your own code)</p></li></ul>",
+      "remote": false,
+      "location": "Amsterdam",
+      "applyUrl": "https://jobs.funda.nl/l/nl/o/backend-net-developer",
+      "tags": [
+        "azure",
+        "c#",
+        "dotnet",
+        "kubernetes",
+        "docker",
+        "microservices"
+      ],
+      "isFeatured": false,
+      "age": 7
+    },
+    {
+        "id": 11,
+        "companyId": 8,
+        "companyName": "Lumera",
+        "hasLogo": true,
+        "position": ".NET Developer",
+        "description": "<p><strong>Challenger in the pension market</strong></p><p>Lumera is an InsurTech company that provides a digital platform – with associated services – to pension funds, administrators and insurers. Customers use our Lumera Axylife system to manage pension and life insurance policies and to serve participants. Lumera is a fast-growing challenger in the market, preparing for the reform that will drastically change the pension space in the coming years. We see plenty of opportunities, do you?</p><p>Pensions may not be sexy, but is a hugely important for everyone who accrues or receives a pension. Lumera is committed to making pension administration simpler, more agile and lower cost. And that ensures that each participant and insured gets the best service and positive outcomes. Lumera Axylife produces real savings for pension administrators, which can be passed on to participants.</p><p><strong>About the job</strong></p><p>As a .NET Developer at Lumera, you will work on various challenges. The emphasis is on building new functionality for various applications, not least our key product AxyLife. You are involved from head to tail in both development and testing and management, across the full breadth of the organization. You will work on our ASP.NET MVC web applications, WPF desktop applications and on the interfacing / integration with, among other things, a Digital Xperience Platform. Of course, data analytics and access play a major role within this business and will certainly come your way. What else is coming at you in the coming years is not exactly clear: your role is determined by what the market demands. Because you are deployed across the full width, you have a very steep learning curve. Depending on your performance and your competencies, you ultimately determine your role and your potential yourself.</p><p><strong>To thrive in this role, you should have...&nbsp;</strong></p><ul><li><p>Minimum HBO working and thinking level</p></li><li><p>At least 3 years of knowledge and experience with: C#, ASP.NET MVC, Web API, HTML/CSS/JavaScript, SQL Server.</p></li><li><p>Knowledge of WPF / Kendo UI / DXP (Sitefinity CMS) and mobile app development is an advantage</p></li><li><p>Good communication and social skills</p></li><li><p>Very good knowledge in Dutch&nbsp;</p></li><li><p>Qualities like independent, accurate, flexible and eager to learn</p></li><li><p>Enthusiasm and that you are a creative team player</p></li><li><p>Critical thinking skills, self-reflection, sense of responsibility and quality awareness</p></li><li><p>Affinity and experience in the pension world. For us an important selection criterion.</p></li></ul>",
+        "remote": true,
+        "location": "",
+        "applyUrl": "https://jobs.lumera.com/jobs/2350249-net-developer",
+        "tags": [
+          "wpf",
+          "mvc",
+          "sqlserver",
+          "css",
+          "html",
+          "js",
+          ".net"
+        ],
+        "isFeatured": false,
+        "age": 10
+      },
+      {
+        "id": 12,
+        "companyId": 7,
+        "companyName": "Greenchoice",
+        "hasLogo": true,
+        "position": "Senior .NET Developer",
+        "description": "<p>You are responsible for the quality of the applications you work on with the team.&nbsp;You develop fully.&nbsp;In addition, you convert your clear view of technical frameworks and quality into a clear vision and guidelines within and outside the team.&nbsp;With your code you inspire the team and support teammates in the development work.&nbsp;Together you look for solutions outside the beaten path and involve the necessary disciplines, such as front end &amp; UX, in the solutions.</p><p>At Greenchoice we build and maintain microservices with C# and the latest version of .NET (7).&nbsp;We provide solutions for many business processes from purchasing, sales and administration to service and self-service.&nbsp;We also integrate with several third parties.&nbsp;We use ASP.NET, MassTransit in combination with RabbitMQ and EF Core for this purpose.&nbsp;By continuously updating to the latest version of .NET, we stay up to date and have access to the latest tools and techniques.&nbsp;Where we still have outdated applications and processes, we also convert them to microservices or phase them out.&nbsp;In the coming years, we will unbundle our old landscape and prepare for the next step towards the Azure Cloud.</p><p><strong>Your&nbsp;challenges:</strong></p><ul><li><p>Developing future-proof software.&nbsp;You want to meet customer wishes without making concessions on the quality of the code.&nbsp;To keep track of this, we work with automated SonarCloud reporting and quality gates, among other things.</p></li><li><p>The new event-driven microservices architecture requires a new way of thinking.&nbsp;In addition, the transition to this architecture is accompanied by the phasing out of legacy code.&nbsp;A continuous process in every team.</p></li><li><p>The energy market is a beautiful and complex market, which requires close collaboration with your colleagues from other departments to really take the right steps.</p></li></ul><p><strong>You are our positive energy</strong></p><p>You know how to convey your clear vision on how we safeguard and increase (technical) quality to colleagues.&nbsp;You know how to connect people and can initiate changes.&nbsp;You don't give up, help teammates with challenges and support the product owner in completing the technical product vision</p><p>In addition you have:</p><ul><li><p>More than 5 years of experience with software development in C# in a professional working environment</p></li><li><p>A completed education in the field of ICT/Computer Science/Software Engineering</p></li><li><p>Knowledge of the Dutch language.&nbsp;Our working language is Dutch and many functional and technical descriptions are in Dutch.</p></li></ul>",
+        "remote": false,
+        "location": "Rotterdam",
+        "applyUrl": "https://greenchoice.recruitee.com/o/senior-net-developer",
+        "tags": [
+          "rabbitmq",
+          "efcore",
+          "dutch",
+          "c#",
+          "aspnet"
+        ],
+        "isFeatured": false,
+        "age": 12
+      },
+      {
+        "id": 13,
+        "companyId": 6,
+        "companyName": "Euronext",
+        "hasLogo": true,
+        "position": "Senior .Net Developer",
+        "description": "<p><strong>Key Accountabilities</strong></p><p>The key accountabilities for this role are:</p><ul><li><p>Translate application storyboards and use cases into functional applications;</p></li><li><p>Design, build and maintain efficient, reusable, and reliable code;</p></li><li><p>Ensure the best possible performance, quality and responsiveness of the applications;</p></li><li><p>Identify bottlenecks and bugs and devise solutions to these problems;</p></li><li><p>Help maintain code quality, organization, and automatization.</p></li></ul><p></p><p><strong>Knowledge, Skills and Experience Required</strong></p><ul><li><p>Higher level academic technical qualification e.g. Bachelors in Computer Science or Equivalent</p></li><li><p>Experience developing application in a microservices architecture</p></li><li><p>Excellent object-oriented design and coding skills in .NET/.NET Core</p></li><li><p>Solid experience with GIT, relational and non-relational database</p></li><li><p>Experience in creating and maintaining unit and integration tests</p></li><li><p>Be familiar with Amazon Webservices, containers and CICD practices</p></li><li><p>Knowledge of agile development practices</p></li><li><p>Pro-active attitude, strong analytical and problem solving skills</p></li><li><p>Fluent in English</p></li></ul>",
+        "remote": false,
+        "location": "Rotterdam",
+        "applyUrl": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Amsterdam/XMLNAME-Net-developer_R15002/apply",
+        "tags": [
+          ".net",
+          "git",
+          "amazon",
+          "microservices"
+        ],
+        "isFeatured": false,
+        "age": 13
+      },
+      {
+        "id": 14,
+        "companyId": 5,
+        "companyName": "Videoland",
+        "hasLogo": true,
+        "position": "Senior Software Engineer",
+        "description": "<p>We are looking for an experienced and highly skilled Senior Software Engineer to join our team. The ideal candidate must have a minimum of 7 years of experience in developing scalable, high-quality software applications using various programming languages such as Java, C#, Python, and JavaScript. They should be proficient in object-oriented programming principles and have a deep understanding of data structures and algorithms. Responsibilities will include designing, coding, testing, debugging, and maintaining complex software systems for our clients. The successful applicant must also possess strong communication skills, attention to detail, and the ability to work effectively with cross-functional teams.</p>",
+        "remote": false,
+        "location": "Hilversum",
+        "applyUrl": "https://jobsearch.createyourowncareer.com/RTL/content/search/",
+        "tags": [
+          "azure",
+          "c#",
+          "dotnet",
+          "terraform",
+          "k8s",
+          "argo",
+          "promql"
+        ],
+        "isFeatured": false,
+        "age": 14
+      },
+      {
+        "id": 15,
+        "companyId": 4,
+        "companyName": "SnappCar",
+        "hasLogo": true,
+        "position": "C# Developer",
+        "description": "<p>We are looking for an experienced Certified C# Developer to join our team and help us develop innovative software solutions. The ideal candidate must have at least 5 years of experience in developing scalable, high-quality applications using C#. They should be proficient in object-oriented programming principles and have a deep understanding of data structures and algorithms. Responsibilities will include designing, coding, testing, debugging, and maintaining complex software systems for our clients. The successful applicant should also have strong communication skills, attention to detail, and the ability to work effectively with cross-functional teams.</p>",
+        "remote": false,
+        "location": "Utrecht",
+        "applyUrl": "https://jobs.snappcar.nl/",
+        "tags": [
+          "c#",
+          "mvc",
+          "angular",
+          "aspnet",
+          "typescript"
+        ],
+        "isFeatured": false,
+        "age": 15
+      },
+      {
+        "id": 16,
+        "companyId": 3,
+        "companyName": "RTL Nederland",
+        "hasLogo": true,
+        "position": "Senior .NET Software Engineer",
+        "description": "<p>The Senior .NET Developer position at our company requires 5+ years of experience in developing web applications using VB.Net, C#, or Java. The ideal candidate should also have strong knowledge of software engineering and programming concepts such as algorithms and data structures. Responsibilities will include designing, developing, testing, debugging, and maintaining complex software systems for our clients. The successful applicant should be a team player with excellent communication skills, problem-solving abilities, and attention to detail.</p>",
+        "remote": false,
+        "location": "Hilversum",
+        "applyUrl": "https://www.rtl.nl/werkenbij/werken-bij-rtl/ZDqsihEAACAAeCn9",
+        "tags": [
+          "azure",
+          "k8s",
+          "c#",
+          "argo",
+          "gitops",
+          "terraform",
+          "mongodb"
+        ],
+        "isFeatured": false,
+        "age": 16
+      },
+      {
+        "id": 17,
+        "companyId": 2,
+        "companyName": "GreenFlux",
+        "hasLogo": true,
+        "position": "Full Stack Software Engineer",
+        "description": "<p><strong>The job</strong></p><p>You will be a developer in our (web-)Portal team, which is practicing agile with well-defined and clear processes. You will work on a complex and diverse web portal application providing our B2B customers the primary interface to our systems. The platform brings together a large amount of data from various sources and sees a substantial number of concurrent users every day. We have a clear focus on UX, performance, and scalability of the product. Together with your team you will face challenges and grow at the same time.</p><p>In our team, we currently use the following technologies:</p><p>· A microservices architecture using the latest versions of C#/.NET.</p><p>· Front-end, currently developed with ASP.NET MVC/Razor and transitioning to Vue.js.</p><p>· Cloud-native services deployed on Azure.</p><p>· Focus on serverless and event-driven architecture (Azure Functions, Service Bus, Event Hub).</p><p>· Cloud-native storage technologies (Azure SQL, Cosmos DB, Redis, Synapse).</p><p>· Elasticsearch and Kibana for logging.</p><p>· Azure DevOps.</p><p>· Infrastructure as Code (ARM/Bicep).</p><p>· Automated testing, for example using SpecFlow.</p><p><strong>Job requirements</strong></p><p>You are passionate about building scalable, high-load, and cloud-native solutions in a fast-moving company. You are eager to learn, flexible, and open to working with various techniques. You have good communication skills, understand what the user needs, and can put this to words as well as code. You have Up-to-date knowledge of current front-end practices and frameworks. You value idiomatic and efficient HTML, CSS, and TypeScript/JavaScript code. Having experience working with Vue.js is a plus.</p><p><strong>You have</strong></p><p>· 4+ years of experience with Microsoft .NET/C# and ASP.Net Core building large-scale complex systems.</p><p>· Hands-on experience developing cloud-native applications and services (preferably Azure).</p><p>·&nbsp;Hands-on experience with building web applications. Good working knowledge using either Razor or Vue.js.</p><p>· An understanding of quality control and the importance to test the code before release.</p><p>· Experience with CI/CD and automation of the software development lifecycle.</p><p>· A drive for continuous learning and self-improvement.</p><p>· Professional fluency in English.</p><p>· A sustainable mindset!</p><p></p>",
+        "remote": false,
+        "location": "Amsterdam",
+        "applyUrl": "https://greenflux.recruitee.com/o/full-stack-software-engineer",
+        "tags": [
+          "azure",
+          "c#",
+          ".net",
+          "asp.net",
+          "razor",
+          "vuejs"
+        ],
+        "isFeatured": false,
+        "age": 17
+      },
+      {
+        "id": 18,
+        "companyId": 1,
+        "companyName": "Funda",
+        "hasLogo": true,
+        "position": "Backend .NET Developer",
+        "description": "<p>As a .NET Developer at funda you're not ‘just’ writing code, you’re writing quality code on a platform&nbsp;that gets viewed 77 million times per month, by people who are right in the middle of one of the biggest decisions in their lives: buying a home, a place to live.&nbsp;And it’s you who will actively participate in ideas on how to make this journey even better.</p><p>You’ll work with modern (mostly Microsoft) technology, including&nbsp;<strong>.NET Core&nbsp;</strong>6 and&nbsp;<strong>Azure</strong>, but also with open-source products such as&nbsp;<strong>Docker&nbsp;</strong>or&nbsp;<strong>Kubernetes</strong>. You and your team ship your own&nbsp;<strong>microservices</strong>&nbsp;directly to production using Azure devops (check out the tech stack we use&nbsp;here). According to your colleague&nbsp;Kateryna, you make a difference with your work. “Of course, we have an enormous audience. But what's much cooler than that is that you can change things on your own. If you've got a good idea and you can convince the team that it's a good idea, you can get started on it straight away. That means you really have an impact.”</p><p><strong>Your job in a nutshell</strong></p><ul><li><p>Write high quality code</p></li><li><p>Ship features that affect millions of users</p></li><li><p>Work together with the whole scrum team (all disciplines) to solve problems</p></li><li><p>Investigate and fix production issues (in your own code)</p></li></ul>",
+        "remote": false,
+        "location": "Amsterdam",
+        "applyUrl": "https://jobs.funda.nl/l/nl/o/backend-net-developer",
+        "tags": [
+          "azure",
+          "c#",
+          "dotnet",
+          "kubernetes",
+          "docker",
+          "microservices"
+        ],
+        "isFeatured": false,
+        "age": 18
+      }
+  ]

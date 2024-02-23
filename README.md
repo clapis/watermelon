@@ -2,7 +2,7 @@
 
 An experiment on Vue/Nuxt
 
-> https://dotnet-jobs.nl
+> https://clapis.github.io/watermelon
 
 
 ## Build Setup

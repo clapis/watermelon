@@ -1,7 +1,7 @@
 <template>
   <div class="row justify-content-center">
     <div class="col-auto">
-      <b-form-group label="⠀">
+      <b-form-group label="　">
         <logo-upload v-model="value.logo" />
       </b-form-group>
     </div>
